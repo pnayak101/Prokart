@@ -1,0 +1,42 @@
+
+Feb 01, 2021 22:34:59.49 NEW SESSION
+Feb 01, 2021 22:34:59.49 [12196:6908:0201/223459.045:ERROR:device_event_log_impl.cc(211)] [22:34:59.046] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 01, 2021 22:34:59.66 [12196:6908:0201/223459.046:ERROR:device_event_log_impl.cc(211)] [22:34:59.046] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 03, 2021 15:56:17.76 NEW SESSION
+Feb 03, 2021 15:56:17.76 [10796:6196:0203/155617.073:ERROR:device_event_log_impl.cc(211)] [15:56:17.073] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 03, 2021 15:56:17.182 [10796:6808:0203/155617.182:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 15:56:39.991 [10796:6808:0203/155639.991:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 15:56:47.123 [10796:6196:0203/155647.123:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Feb 03, 2021 15:57:20.387 [10796:6808:0203/155720.387:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 15:58:52.970 [10796:6808:0203/155852.970:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:00:47.958 [10796:6196:0203/160047.958:ERROR:device_event_log_impl.cc(211)] [16:00:47.955] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 16:00:47.974 [10796:6196:0203/160047.974:ERROR:device_event_log_impl.cc(211)] [16:00:47.974] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 16:01:58.537 [10796:6808:0203/160158.537:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:07:30.826 [10796:6808:0203/160730.825:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:17:30.841 [10796:6808:0203/161730.841:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:27:30.843 [10796:6808:0203/162730.843:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:37:30.860 [10796:6808:0203/163730.860:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:47:30.875 [10796:6808:0203/164730.874:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 03, 2021 16:49:09.920 [10796:6808:0203/164909.919:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Feb 03, 2021 16:52:46.437 [10796:6196:0203/165246.436:ERROR:device_event_log_impl.cc(211)] [16:52:46.435] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 16:52:46.499 [10796:6196:0203/165246.498:ERROR:device_event_log_impl.cc(211)] [16:52:46.499] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 17:22:51.110 [10796:6196:0203/172251.109:ERROR:device_event_log_impl.cc(211)] [17:22:51.109] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 17:22:51.146 [10796:6196:0203/172251.146:ERROR:device_event_log_impl.cc(211)] [17:22:51.144] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 18:12:14.704 [10796:6196:0203/181214.703:ERROR:device_event_log_impl.cc(211)] [18:12:14.703] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 18:12:14.734 [10796:6196:0203/181214.733:ERROR:device_event_log_impl.cc(211)] [18:12:14.729] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 18:14:38.210 [10796:6196:0203/181438.209:ERROR:device_event_log_impl.cc(211)] [18:14:38.208] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 18:14:38.227 [10796:6196:0203/181438.222:ERROR:device_event_log_impl.cc(211)] [18:14:38.222] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 18:25:03.58 [10796:6196:0203/182503.058:ERROR:device_event_log_impl.cc(211)] [18:25:03.057] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 18:25:03.87 [10796:6196:0203/182503.085:ERROR:device_event_log_impl.cc(211)] [18:25:03.085] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 18:25:10.246 [10796:6196:0203/182510.245:ERROR:device_event_log_impl.cc(211)] [18:25:10.245] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 18:25:10.275 [10796:6196:0203/182510.274:ERROR:device_event_log_impl.cc(211)] [18:25:10.274] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 18:25:24.969 [10796:6196:0203/182524.969:ERROR:device_event_log_impl.cc(211)] [18:25:24.968] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Feb 03, 2021 18:25:24.994 [10796:6196:0203/182524.994:ERROR:device_event_log_impl.cc(211)] [18:25:24.993] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 03, 2021 18:51:14.890 [10796:6196:0203/185114.890:ERROR:event_router.cc(714)] Event dispatched while shutting down extensions browser client.
+
+Feb 04, 2021 03:41:30.226 NEW SESSION
+Feb 04, 2021 03:41:30.226 [1984:6008:0204/034130.223:ERROR:device_event_log_impl.cc(211)] [03:41:30.222] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 04, 2021 03:41:30.242 [1984:6008:0204/034130.223:ERROR:device_event_log_impl.cc(211)] [03:41:30.223] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 04, 2021 03:41:30.267 [1984:23948:0204/034130.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Feb 04, 2021 03:41:53.312 [1984:23948:0204/034153.311:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106

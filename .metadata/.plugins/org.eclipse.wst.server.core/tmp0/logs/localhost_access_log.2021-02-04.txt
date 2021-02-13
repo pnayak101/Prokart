@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Feb/2021:01:28:01 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:01:28:13 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:01:28:43 +0530] "POST /Prokart/Alogin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:01:28:43 +0530] "GET /Prokart/adminhome.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:01:29:13 +0530] "GET /Prokart/Addpro?id=1112&name=note&price=6999&cat=Mobile&cmp=Xiaomi&seller=ashu&Add+Product=Submit HTTP/1.1" 200 57
+127.0.0.1 - - [04/Feb/2021:03:41:23 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:03:41:29 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:03:41:57 +0530] "POST /Prokart/Alogin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:03:41:57 +0530] "GET /Prokart/adminhome.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Feb/2021:03:42:15 +0530] "GET /Prokart/Addpro?id=1112&name=note&price=6999&cat=Mobile&cmp=One+Plus&seller=ashu&Add+Product=Submit HTTP/1.1" 200 824
